@@ -5,6 +5,7 @@ before using.
 
 Usage:
 ./archivecatalogget.py -c archive.org collection -o outputdirectory
+
 example  ./archivecatalogget.py -c omni-magazine -o /media/usb/archivecollections/
 
 TODO:
