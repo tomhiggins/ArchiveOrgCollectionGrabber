@@ -1,4 +1,8 @@
 # ArchiveOrgCollectionGrabber
+This code has been obsoleted. Please head here ( https://internetarchive.readthedocs.io/en/latest/cli.html ) for downloading items and collections from Archive.org 
+
+
+=============================================================================================================
 Python script to get an entire collection from Archive.org
 This project uses https://github.com/jjjake/internetarchive , please install 
 before using. 
